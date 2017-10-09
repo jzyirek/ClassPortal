@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Class Portal</string>
+    <string name="WelcomeLog">Welcome to CISP 362</string>
+    <string name="UsernameLabel">Username:</string>
+    <string name="PasswordLabel">Password:</string>
+    <string name="Username" />
+    <string name="PasswordInput" />
+    <string name="SubmitButtonId">Submit</string>
+</resources>
